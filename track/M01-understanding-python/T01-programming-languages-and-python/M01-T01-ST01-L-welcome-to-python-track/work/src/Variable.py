@@ -40,11 +40,6 @@ print(b+c)
 print(a , c)
 
 
-c=50
-def add():
-    global a
-    a=10
-    b=20
-    print(a+b)
-    print(c)
-add()    
+
+
+
